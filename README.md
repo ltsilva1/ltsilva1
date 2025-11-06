@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello there, I'm Lucas!
 
-<!--
-**ltsilva1/ltsilva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate Computer Science student at **UFRGS (Brazil)**, passionate about **low-level systems**, **computer architecture**, **cross-platform development**, and the **.NET ecosystem** as a whole.
 
-Here are some ideas to get you started:
+🧪 Currently working on a research project on **acoustic monitoring of *Aedes aegypti*** mosquitoes (PIBIC-CNPq), which involves:
+- Structuring datasets and preparing labels for **machine learning classifiers**
+- Developing tools for **acoustic data processing and annotation in Python** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+Feel free to reach out or connect with me! I'm always open to new opportunities.
+
+[![Email](https://img.shields.io/badge/-ltsilva@inf.ufrgs.br-red?logo=gmail&logoColor=white)](mailto:ltsilva@inf.ufrgs.br)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ltsilva1/)
