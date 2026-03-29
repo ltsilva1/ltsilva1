@@ -1,8 +1,8 @@
 # 👋 Hello there, I'm Lucas!
 
-🎓 I'm an undergraduate Computer Science student at **UFRGS (Brazil)**, passionate about **low-level systems**, **computer architecture**, **cross-platform development**, and the **.NET ecosystem** as a whole.
+🎓 I'm an undergraduate Computer Science student at **UFRGS (Brazil)**, passionate about **computer architecture**, **cross-platform development**, and **low-level systems** as a whole.
 
-🧪 Currently working on a research project on **acoustic monitoring of *Aedes aegypti*** mosquitoes (PIBIC-CNPq), which involves:
+🧪 Formerly worked on a PIBIC-CNPq research project on **acoustic monitoring of *Aedes aegypti*** mosquitoes, which involved:
 - Structuring datasets and preparing labels for **machine learning classifiers**
 - Developing tools for **acoustic data processing and annotation in Python** 
 
