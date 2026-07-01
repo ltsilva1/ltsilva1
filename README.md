@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Lucas!
 
-I'm an undergraduate Computer Science student at **UFRGS (Brazil)**, passionate about **computer architecture**, **cross-platform development**, and **low-level systems** as a whole.
+I'm an undergraduate Computer Science student at **UFRGS (Brazil)**, passionate about **systems programming**, **cross-platform development**, and **artificial intelligence** as a whole.
 
 🔬 Currently, I hold an undergraduate research and development scholarship through **RNP** on **GT-EduValida** — a national platform for validating and issuing educational microcertifications — under **Prof. Dr. Muriel Figueredo Franco** at INF/UFRGS.
 
