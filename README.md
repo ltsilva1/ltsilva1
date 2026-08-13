@@ -19,4 +19,4 @@ I also continue developing personal projects and deepening my studies in my area
 Feel free to reach out or connect with me! I'm always open to new opportunities.
 
 [![Email](https://img.shields.io/badge/-lucas.telles@inf.ufrgs.br-red?logo=gmail&logoColor=white)](mailto:lucas.telles@inf.ufrgs.br)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ltsilva1/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucastslv/)
